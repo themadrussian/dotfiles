@@ -174,3 +174,8 @@
 [url "git://gist.github.com/"]
 
 	insteadOf = "gist:"
+[user]
+	email = mark@ntelligent.ly
+	name = Mark Rogov
+[credential]
+	helper = osxkeychain
